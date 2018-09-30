@@ -5,7 +5,11 @@
 
 * [Instructions](#instructions)
 
-## Instructions
+## Game Instructions
+clone the repo , unzip the file , 
+click on the index.html and run the application
+
+## Game Instructions
 
 Reach the water, without hitting a lady bug to win
 Use arrows key to move
